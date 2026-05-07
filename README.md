@@ -7,6 +7,7 @@ Pull Requests welcome! Feel free to email us at team@stedi.com or log an issue o
 ## Parsers
 
 - [Stupidedi](https://github.com/kputnam/stupidedi) - a library for parsing, generating, validating, and manipulating ASC X12 EDI documents. Very roughly, it&#39;s jQuery for EDI.
+- [EDIFlow](https://github.com/ediflow-lib/core) - A modern, open-source EDI parser, validator, and builder for TypeScript/Node.js. Supports EDIFACT (D.96A–D.20B), X12 (004010, 006040), HIPAA (005010), and EANCOM with 1294+ message type definitions. Clean Architecture, fully typed, ESM-native.
 
 ## Reference sites
 
